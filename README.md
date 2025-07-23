@@ -1,4 +1,4 @@
-# Bug-Reports-Portfolio
+# Bug-Reports
 A portfolio of my bugreports. 
 
 ## Примеры моих баг-репортов:
