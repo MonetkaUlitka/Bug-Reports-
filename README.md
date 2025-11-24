@@ -16,4 +16,4 @@ A portfolio of my bugreports.
 *   **[BUG-10: Medium]** [Главный логотип сайта не кликабелен] (https://github.com/MonetkaUlitka/Bug-Reports-/issues/10)
 *   **[BUG-11: Low]** [Отсутствует навигационный элемент "Назад" на внутренних страницах] (https://github.com/MonetkaUlitka/Bug-Reports-/issues/11)
 *   **[BUG-12: Medium]** [Отображается неактуальная дата и время курсов валют] (https://github.com/MonetkaUlitka/Bug-Reports-/issues/12)
-*   
+
